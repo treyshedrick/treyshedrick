@@ -5,7 +5,7 @@
 - ⚡ Fun fact: Avid Manchester City fan and Nintendo enthusiast
 - 📫 How to reach me: treyshedrick@gmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Treyshedrick&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Treyshedrick&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### 🛠  Technologies and tools
 
