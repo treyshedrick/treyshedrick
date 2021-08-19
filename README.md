@@ -40,6 +40,6 @@
 <br>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=treyshedrick&theme=merko&hide_border=true&background=FFFFFF28" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=treyshedrick&theme=merko&background=FFFFFF28" />
 </p>
 
