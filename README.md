@@ -5,10 +5,6 @@
 - ⚡ Fun fact: Avid Manchester City fan and Nintendo enthusiast
 - 📫 How to reach me: treyshedrick@gmail.com
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Treyshedrick&theme=dark&hide_border=true" />
-</p>
-
 ### 🛠  Technologies and tools
 
 <div>
@@ -40,3 +36,11 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 </div>
+
+<br>
+<br>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Treyshedrick&theme=dark&hide_border=true" />
+</p>
+
