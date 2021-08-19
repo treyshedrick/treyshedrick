@@ -38,7 +38,6 @@
 </div>
 
 <br>
-<br>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Treyshedrick&theme=dark&hide_border=true" />
