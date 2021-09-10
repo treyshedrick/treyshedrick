@@ -37,9 +37,3 @@
   <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 </div>
 
-<br>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=treyshedrick&theme=merko&background=FFFFFF28" />
-</p>
-
