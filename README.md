@@ -24,6 +24,10 @@
   &nbsp;
   <img src="https://img.shields.io/badge/React_Router-282C34?logo=react-router&logoColor=CA4245" alt="React Router logo" title="React Router" height="25" />
   &nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apollo_Client-282C34?logo=apollographql&logoColor=311C87" alt="Apollo logo" title="Apollo Graphql" height="25" />
+  &nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=316192" alt="Postgres logo" title="Postgres" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/Amazon_AWS-282C34?logo=amazon-aws&logoColor=FF9900" alt="Aws logo" title="Aws" height="25" />
@@ -35,5 +39,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
   &nbsp;
   <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React_Testing_Libary-282C34?logo=testinglibrary&logoColor=E33332" alt="Jest logo" title="Jest" height="25" />
+  &nbsp;
 </div>
 
