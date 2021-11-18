@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [NintenLife](https://github.com/treyshedrick/nintenlife)
-- 🌱 I’m currently learning stripe
+- 🌱 I’m currently learning Framer Motion
 - ⚡ Fun fact: Avid Manchester City fan and Nintendo enthusiast
 - 📫 How to reach me: treyshedrick@gmail.com
 
