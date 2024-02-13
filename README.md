@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [NintenLife](https://github.com/treyshedrick/nintenlife)
-- 🌱 I’m currently learning ethers.js
 - ⚡ Fun fact: Avid Manchester City fan and Nintendo enthusiast
 - 📫 How to reach me: treyshedrick@gmail.com
 
